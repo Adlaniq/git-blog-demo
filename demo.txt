@@ -1,1 +1,1 @@
-print("Hello")
+I LOVE IKAN
